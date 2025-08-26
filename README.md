@@ -6,7 +6,7 @@
 
 
 ### Структура:
-
+```
 streamlit-agent/
 ├── app.py                 # Основной код Streamlit приложения
 ├── requirements.txt       # Python-зависимости
@@ -15,7 +15,7 @@ streamlit-agent/
 ├── Dockerfile             # Описание образа Docker
 ├── docker-compose.yml     # Опциональный файл для запуска Docker Compose
 ├── README.md              # Инструкция по установке и запуску
-
+```
 
 
 ### Установка и Запуск
