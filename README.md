@@ -1,8 +1,8 @@
 ### Описание
 
 Тестовое задание заключается в том, чтобы собрать агента который получает на вход расшифровку телефонного разговора (текст одним блоком) через веб-интерфейс и возвращает оценку тона общения (положительный / нейтральный / негативный) и одну-две краткие рекомендации, как улучшить разговор.
-Для классификации была выбрана модель distilbert/distilbert-base-uncased-finetuned-sst-2-english (ссылка - https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english)
-Для формирования рекомендации была выбрана модель qwen/qwen2.5-vl-32b-instruct:free (https://openrouter.ai/qwen/qwen2.5-vl-32b-instruct:free)
+* Для классификации была выбрана модель distilbert/distilbert-base-uncased-finetuned-sst-2-english (ссылка - https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english)
+* Для формирования рекомендации была выбрана модель qwen/qwen2.5-vl-32b-instruct:free (https://openrouter.ai/qwen/qwen2.5-vl-32b-instruct:free)
 
 
 ### Структура:
