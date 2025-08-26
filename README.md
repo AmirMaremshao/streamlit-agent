@@ -22,8 +22,8 @@ streamlit-agent/
 
 1.  **Клонировать репозиторий:**
     ```bash
-    git clone https://github.com/Gromynyrg/Hackathon_Gazprom.git
-    cd Hackathon_Gazprom
+    git clone https://github.com/AmirMaremshao/streamlit-agent.git
+    cd streamlit-agent
     ```
 
 
