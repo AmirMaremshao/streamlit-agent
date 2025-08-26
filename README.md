@@ -35,6 +35,7 @@ streamlit-agent/
 
 3.  **Собрать и запустить:**
    *   Обычно занимает 330 секунд.
+
     ```bash
     docker-compose up --build
     ```
